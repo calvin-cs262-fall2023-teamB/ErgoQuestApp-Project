@@ -1,17 +1,6 @@
 # ErgoQuestApp-Project
 An app to control ErgoQuest's zero-gravity chairs.
 
-## Team Members
-Henry Goldkuhle
-
-Brian Hlathein
-
-Prince Padi
-
-Jacob Vanden Bosch
-
-Joshua Wilson
-
 ## About ErgoQuest
 ErgoQuest is a company that builds zero-gravity workstations for people with back issues and other physical disabilities, allowing them to continue working with minimal pain. ErgoQuest builds both chairs and workstations for their clients. 
 
@@ -22,3 +11,14 @@ The most important missing feature is the ability to set the chair to switch bet
 
 ## The Solution
 We will design a new app for ErgoQuest to control their zero-gravity chairs. This app will include all the features from the old app (manual chair controls, preset positions, BlueTooth connection to the chair's motors, and the ability to customize the names of motors). The new app will include an improved user interface that is appealing and easy to use for those with disabilities. A major new functionality will be the ability to set the chair to automatically switch between selectable, preset positions at custom time intervals.
+
+## Team Members
+Henry Goldkuhle
+
+Brian Hlathein
+
+Prince Padi
+
+Jacob Vanden Bosch
+
+Joshua Wilson
