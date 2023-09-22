@@ -1,13 +1,12 @@
-# ErgoQuest Controller
+# ErgoQuest Zero-Gravity Chair Controller
 
 ## About ErgoQuest
-ErgoQuest is a company that builds zero-gravity workstations for people with back issues and other physical disabilities, allowing them to continue working with minimal pain. ErgoQuest builds both chairs and workstations for their clients. 
+ErgoQuest specializes in crafting zero-gravity workstations tailored for individuals with back issues and physical disabilities, enabling them to work comfortably with minimal discomfort. Their product range encompasses both chairs and workstations, catering to the unique needs of their clients.
 
-## The Problem
-Currently, ErgoQuest's chairs are controlled either using simple switches for each motor in the chair, or using an app. The switches have limited functionality, and cannot be programmed for setting preset positions. The app has buttons for manual control and preset functionality, but the user interface leaves much to be desired, and there are missing features.  These clients need to reposition their body periodically to avoid bed sores and circulation issues. Currently, they have to remember to either manually adjust the chair with the switches, or select the different presets on the app. There is only one competitor, the original app that is still in use today. Our goal is to create a more userfriendly design that can function better than the original app with the added capability of creating an account and storing presets.
+## Vision Statement
+Currently, ErgoQuest's chairs offer control through physical switches for individual chair motors or via a dedicated app. However, the switches have limited capabilities and lack preset customization. The app, while functional, falls short in terms of user-friendliness and is missing essential features. For instance, some users require periodic chair adjustments to prevent bed sores and circulation problems. Currently, they must manually tweak the chair using switches or select different presets on the app, which lacks a streamlined solution. Notably, ErgoQuest's current app is the sole competition for our upcoming app.
 
-## The Solution
-We will design a new app for ErgoQuest to control their zero-gravity chairs. This app will include all the features from the old app (manual chair controls, preset positions, BlueTooth connection to the chair's motors, and the ability to customize the names of motors). The new app will include an improved user interface that is appealing and easy to use for those with disabilities. A major new functionality will be the ability to set the chair to automatically switch between selectable, preset positions at custom time intervals.
+Our mission is to design a new app for ErgoQuest, tailored to manage their zero-gravity chairs. This upgraded app will retain all functionalities of the previous version, including manual chair controls, preset positions, Bluetooth connectivity to chair motors, and customizable motor names. Additionally, it will feature a revamped user interface designed for ease of use, particularly for individuals with disabilities. A significant enhancement will be the introduction of an automated function allowing users to schedule chair transitions between user-defined preset positions at customized time intervals.
 
 ## Team Members
 Henry Goldkuhle
