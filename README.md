@@ -11,27 +11,19 @@ Our mission is to design a new app for ErgoQuest, tailored to manage their zero-
 ## Design
 The basic flow of the app revolves around 3 primary screens accessible by swiping or clicking buttons at the bottom of the page and a settings screen accessible by clicking the settings button at the top. The flow can be seen in the image below. Each page has a more detailed view shown in the images further below.
 
-![Flow.png in UI-Design folder](./UI-Design/Flow.png)
+View the UI designs through the following links:
 
-The basic template layout for the 3 primary screens and a skeleton for the settings page.
+[Flow.png in UI-Design folder](./UI-Design/Flow.png)
 
-![HomeScreen.png in UI-Design folder](./UI-Design/HomeScreen.png)
+[HomeScreen.png in UI-Design folder](./UI-Design/HomeScreen.png)
 
-Move is the page uses to move individual actuators. Different designs discussed by the team can be viewed here. We will likely have the design of the screen on the right using the 5th actuator control design (has "5" to its left).
+[Move.png in UI-Design folder](./UI-Design/Move.png)
 
-![Move.png in UI-Design folder](./UI-Design/Move.png)
+[Presets.png in UI-Design folder](./UI-Design/Presets.png)
 
-The presets page will be a simple display of buttons that allow users to click to automatically move to that position (a set of pre-determined values made in the Move page).
+[Timed.png in UI-Design folder](./UI-Design/Timed.png)
 
-![Presets.png in UI-Design folder](./UI-Design/Presets.png)
-
-The Timed page will contain Play, Pause, and Stop controls for a playlist of presets.
-
-![Timed.png in UI-Design folder](./UI-Design/Timed.png)
-
-Settings is how users will connect to the chair, login to/create an account, and manage any other settings we develop.
-
-![.png in UI-Design folder](./UI-Design/Settings.png)
+[.png in UI-Design folder](./UI-Design/Settings.png)
 
 
 ## Team Members
